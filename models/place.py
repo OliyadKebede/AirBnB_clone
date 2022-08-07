@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 """module place"""
 
 from models.base_model import BaseModel

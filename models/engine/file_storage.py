@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 """
 File storage:  serializes instances to a JSON file and
     deserializes JSON file to instances:

@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 """module city"""
 
 from models.base_model import BaseModel
